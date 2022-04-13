@@ -1,0 +1,1 @@
+rdesktop -u admin -p lab 10.10.10.10 -r clipboard  && autorecon 10.10.10.10/24

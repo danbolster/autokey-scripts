@@ -1,0 +1,1 @@
+autorecon --single-target --only-scans-dir -v --output target 10.10.10.10

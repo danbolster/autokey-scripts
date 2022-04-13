@@ -1,0 +1,1 @@
+termdown 10s --title break -v en && notify-send "break over!" --app-name=Breaktime Counter && espeak "break over!"

@@ -1,0 +1,1 @@
+accesschk /accepteula -uwdq C:\Program Files\"

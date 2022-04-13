@@ -1,0 +1,1 @@
+echo "My name is Dan" | sed 's/Dan/Daniel/'

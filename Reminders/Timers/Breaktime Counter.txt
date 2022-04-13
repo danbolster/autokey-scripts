@@ -1,0 +1,1 @@
+termdown 10s --title "until break" -v en && notify-send breaktime! --app-name=Breaktime Counter && espeak breaktime!

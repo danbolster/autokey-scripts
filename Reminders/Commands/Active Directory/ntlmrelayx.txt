@@ -1,0 +1,1 @@
+ntlmrelayx -tf targets.txt -smb2support

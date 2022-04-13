@@ -1,0 +1,1 @@
+wfuzz  -t 20 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -w /usr/share/wordlists/wfuzz/general/extensions.txt --sc 200  http://127.0.0.1/FUZZFUZ2Z

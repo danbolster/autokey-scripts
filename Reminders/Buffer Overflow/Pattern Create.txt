@@ -1,0 +1,1 @@
+msf-pattern_create -l $size | xclip -selection clipboard

@@ -1,0 +1,1 @@
+/opt/LFI/log_file.txt

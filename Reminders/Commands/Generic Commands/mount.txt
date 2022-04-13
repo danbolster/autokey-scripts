@@ -1,0 +1,1 @@
+sudo mount -t cifs //10.10.187.120/nt4wrksv /mnt

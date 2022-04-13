@@ -1,0 +1,1 @@
+termdown 10s --title "Next Machine" -v en && notify-send "Go to the next machine!" --app-name=Breaktime Counter && espeak "Next machine!"
